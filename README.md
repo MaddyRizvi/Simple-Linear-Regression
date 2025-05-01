@@ -28,10 +28,10 @@ This project demonstrates a simple Linear Regression model using Python and scik
 ## 📈 Visualizations
 
 - **Training Set**: Red dots (actual data), blue line (regression fit).
-- ![Image](https://github.com/user-attachments/assets/069f9d85-f316-4c34-b47a-590795ec119d)
+- ![Image](https://github.com/user-attachments/assets/ad804c36-2dc7-4a29-a513-3f3ed215b224)
 
 - **Test Set**: Red dots (actual test data), blue line (predicted regression).
-- ![Image](https://github.com/user-attachments/assets/acb3f9b8-2968-4348-a128-000800576848)
+- ![Image](https://github.com/user-attachments/assets/a1c44da7-89d1-46f0-b2fe-e4c590e36fda)
 
 ## 🔧 How to Run
 
